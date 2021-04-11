@@ -21,5 +21,5 @@ and finally we have a separate page for You to share your experiences and storie
 ```
 
 # :label: LINKS
- [Github](https://119kanika.github.io/Gracious-Givers/)
+ [Github](https://rompyroshni31.github.io/GRACIOUS-GIVERS/)
  
